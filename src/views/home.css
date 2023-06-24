@@ -1,0 +1,8 @@
+.container{
+    background: rgb(124, 46, 39);
+    background: linear-gradient(90deg, rgb(211, 137, 130) 0%, rgba(160, 153, 28, 0.792) 72%);
+}
+
+.pokemon{
+    height: 50rem;
+}
